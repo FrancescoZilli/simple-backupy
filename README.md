@@ -10,13 +10,13 @@ To execute a backup it's easy:you need to specify the files and folders absolute
   - execute "python py_backup.py"
 
 # backup_y.ini example
-[BACK UP]_
-Z:\Users\<username>\<ancient pr0n path>\Favourites_
-C:\Users\<username>\Desktop\passwords.txt         (please don't do this)__
-
-[DESTINATION]_
-C:\Users\<username>\MY_BACKUP1_
-E:\Users\<username>\<incredibly dense path>\MY_BACKUP2_
+[BACK UP] <br />
+Z:\Users\<username>\<ancient pr0n path>\Favourites <br />
+C:\Users\<username>\Desktop\passwords.txt (please don't do this) <br />
+<br />
+[DESTINATION] <br />
+C:\Users\<username>\MY_BACKUP1 <br />
+E:\Users\<username>\<incredibly dense path>\MY_BACKUP2 <br />
 
 
 Written for Python 2.7.10+ 
