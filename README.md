@@ -7,16 +7,16 @@ To execute a backup it's easy:you need to specify the files and folders absolute
   - create a "backup_y.ini" file (if not present, otherwise a standard one will be created)
   - specify the absolute path of files and folders you want to backup
   - create and specify in the previously cited ".ini" file the folder(s) where you want your backup to be
-# - execute "python py_backup.py"
+  - execute "python py_backup.py"
 
 # backup_y.ini example
-[BACK UP]
-Z:\Users\<username>\<ancient pr0n path>\Favourites
-C:\Users\<username>\Desktop\passwords.txt         (please don't do this)
+[BACK UP]_
+Z:\Users\<username>\<ancient pr0n path>\Favourites_
+C:\Users\<username>\Desktop\passwords.txt         (please don't do this)__
 
-[DESTINATION]
-C:\Users\<username>\MY_BACKUP1
-E:\Users\<username>\<incredibly dense path>\MY_BACKUP2
+[DESTINATION]_
+C:\Users\<username>\MY_BACKUP1_
+E:\Users\<username>\<incredibly dense path>\MY_BACKUP2_
 
 
 Written for Python 2.7.10+ 
