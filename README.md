@@ -15,8 +15,9 @@ Z:\Users\<username>\<ancient pr0n path>\Favourites <br />
 C:\Users\<username>\Desktop\passwords.txt (please don't do this) <br />
 <br />
 [DESTINATION] <br />
-C:\Users\<username>\MY_BACKUP1 <br />
-E:\Users\<username>\<incredibly dense path>\MY_BACKUP2 <br />
-
+`C:\Users\<username>\MY_BACKUP1`
+<br />
+`E:\Users\<username>\<incredibly dense path>\MY_BACKUP2`
+ <br />
 
 Written for Python 2.7.10+ 
