@@ -11,8 +11,8 @@ To execute a backup it's easy:you need to specify the files and folders absolute
 
 # backup_y.ini example
 [BACK UP] <br />
-Z:\Users\<username>\<ancient pr0n path>\Favourites <br />
-C:\Users\<username>\Desktop\passwords.txt (please don't do this) <br />
+`Z:\Users\<username>\<ancient pr0n path>\Favourites` <br />
+`C:\Users\<username>\Desktop\passwords.txt (please don't do this)` <br />
 <br />
 [DESTINATION] <br />
 `C:\Users\<username>\MY_BACKUP1`
